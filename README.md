@@ -1,5 +1,5 @@
 - To run the project clone the repository
 - Install the requirements from requirements.txt
-- Make sure spark-3.0.1-bin-hadoop2.7 installed on system
+- Make sure spark-3.0.1-bin-hadoop2.7 installed on system (Installation Instructions)[https://phoenixnap.com/kb/install-spark-on-windows-10]
 - Run the project using Spark-exercises notebook
 - Experiment with project creating your own queries
