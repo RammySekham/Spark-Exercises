@@ -1,2 +1,5 @@
-### In Progress
-Spark DataFrames,  Spark SQL,  PySpark
+- To run the project clone the repository
+- Install the requirements from requirements.txt
+- Make sure spark-3.0.1-bin-hadoop2.7 installed on system
+- Run the project using Spark-exercises notebbok
+- Experiment with project creating your own queries
